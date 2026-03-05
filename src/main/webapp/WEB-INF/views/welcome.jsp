@@ -101,16 +101,16 @@
                         <div class="media-body">
                             <hr>
                             <h3><strong>Bio</strong></h3>
-                            <p>DevOps For Product Management and Strategy of Application Delivery by Mustafa. Responsible of providing customers with counsel on their DevOps strategies to help them deliver higher quality software and services to market faster.</p>
+                            <p>Lakshmi Narayanan is a DevOps Engineer with a strong background in Computer Science, cybersecurity, and software development. He has experience in CI/CD pipeline automation, containerization, and cloud-based development environments.</p>
                             <hr>
                             <h3><strong>Location</strong></h3>
-                            <p>Earth</p>
+                            <p>Chennai</p>
                             <hr>
                             <h3><strong>Gender</strong></h3>
-                            <p>Unknown</p>
+                            <p>Male</p>
                             <hr>
                             <h3><strong>Birthday</strong></h3>
-                            <p>January 01 1901</p>
+                            <p>November 29 2001</p>
                         </div>
                     </div>
                 </div>
